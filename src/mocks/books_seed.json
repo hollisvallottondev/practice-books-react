@@ -1,0 +1,91 @@
+[{
+	"id": 1,
+	"author": "Everett Chotty",
+	"title": "Girls Just Want to Have Fun",
+	"genre": "Comedy",
+	"publish_date": "05/09/1957"
+  }, {
+	"id": 2,
+	"author": "Lesley Lowry",
+	"title": "Chuck Norris vs Communism",
+	"genre": "Documentary",
+	"publish_date": "11/22/1742"
+  }, {
+	"id": 3,
+	"author": "Anderea Jeremiah",
+	"title": "Clerks",
+	"genre": "Comedy",
+	"publish_date": "03/06/1855"
+  }, {
+	"id": 4,
+	"author": "Derril Alaway",
+	"title": "Only God Knows (Sólo Dios Sabe)",
+	"genre": "Drama|Mystery|Romance",
+	"publish_date": "02/28/1920"
+  }, {
+	"id": 5,
+	"author": "Vania Dalton",
+	"title": "Josephine",
+	"genre": "Comedy|Romance",
+	"publish_date": "06/06/1527"
+  }, {
+	"id": 6,
+	"author": "Giffard Arnaudon",
+	"title": "Hella W",
+	"genre": "Drama",
+	"publish_date": "11/28/1574"
+  }, {
+	"id": 7,
+	"author": "Riva Jobe",
+	"title": "Sleepy Hollow",
+	"genre": "Fantasy|Horror|Mystery|Romance",
+	"publish_date": "01/14/1631"
+  }, {
+	"id": 8,
+	"author": "Carissa Crownshaw",
+	"title": "Thunder Rock",
+	"genre": "Drama|Fantasy|War",
+	"publish_date": "01/23/1839"
+  }, {
+	"id": 9,
+	"author": "Myrtie Culverhouse",
+	"title": "August Rush",
+	"genre": "Drama|Musical",
+	"publish_date": "03/06/2013"
+  }, {
+	"id": 10,
+	"author": "Cassey Gonthard",
+	"title": "The Testimony",
+	"genre": "(no genres listed)",
+	"publish_date": "06/29/1960"
+  }, {
+	"id": 11,
+	"author": "Marwin Keough",
+	"title": "Maniac",
+	"genre": "Horror",
+	"publish_date": "12/24/1822"
+  }, {
+	"id": 12,
+	"author": "Poppy Fist",
+	"title": "Julien Donkey-Boy",
+	"genre": "Drama",
+	"publish_date": "03/29/1517"
+  }, {
+	"id": 13,
+	"author": "Pierce Spanton",
+	"title": "No One Writes to the Colonel (El coronel no tiene quien le escriba)",
+	"genre": "Drama",
+	"publish_date": "12/25/1531"
+  }, {
+	"id": 14,
+	"author": "Far Chidler",
+	"title": "Songs From the Second Floor (Sånger från andra våningen)",
+	"genre": "Drama",
+	"publish_date": "11/24/1649"
+  }, {
+	"id": 15,
+	"author": "Ambrosi Dennert",
+	"title": "Letters to Juliet",
+	"genre": "Drama|Romance",
+	"publish_date": "07/25/1667"
+  }]

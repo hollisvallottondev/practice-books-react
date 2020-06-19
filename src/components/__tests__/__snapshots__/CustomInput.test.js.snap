@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomInput renders correctly 1`] = `
+<div>
+  <div>
+    <i
+      className="fas fa-search"
+    />
+    <input
+      onChange={[Function]}
+      placeholder="Find a book by title or author"
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;

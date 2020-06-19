@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBox renders correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <div>
+        <i
+          className="fas fa-search"
+        />
+        <input
+          onChange={[Function]}
+          placeholder="Find a book by title or author"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+  <div>
+    <button
+      onClick={[MockFunction]}
+    >
+      Add a new book
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal renders confirm correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <i
+        className="fas fa-times-circle"
+        onClick={[MockFunction]}
+      />
+      <div>
+        <p>
+          Are you sure you want to delete Girls Just Want to Have Fun by Everett Chotty?
+        </p>
+        <div>
+          <button
+            onClick={[Function]}
+          >
+            Cancel
+          </button>
+          <button
+            onClick={[Function]}
+          >
+            Confirm
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Modal renders edit correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <i
+        className="fas fa-times-circle"
+        onClick={[MockFunction]}
+      />
+      <div>
+        <div
+          className="undefined "
+          onClick={[Function]}
+        >
+          <div>
+            <div>
+              <h3 />
+            </div>
+            <div />
+          </div>
+          <div>
+            <button
+              onClick={[MockFunction]}
+            >
+              Cancel
+            </button>
+            <button
+              onClick={[Function]}
+            >
+              Save
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
